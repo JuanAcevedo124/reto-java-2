@@ -9,16 +9,16 @@ Bienvenido a tu ruta de aprendizaje de Java.
 
 | Lección | Carpeta | Tema | Estado |
 |---|---|---|---|
-| 0 | `README.md` | Cómo funciona Java | ⏳ Ahora |
-| 1 | `01-fundamentos/` | Hola Mundo y estructura básica | ⏳ Siguiente |
-| 2 | `02-variables/` | Variables y Tipos de Datos | 🔒 |
-| 3 | `03-operadores/` | Operadores aritméticos y lógicos | 🔒 |
-| 4 | `04-entrada-datos/` | Leer datos del teclado (Scanner) | 🔒 |
-| 5 | `05-condicionales/` | if, else, switch | 🔒 |
-| 6 | `06-bucles/` | for, while, do-while | 🔒 |
-| 7 | `07-arrays/` | Arreglos y listas | 🔒 |
-| 8 | `08-metodos/` | Métodos y funciones | 🔒 |
-| 9 | `09-poo/` | Programación Orientada a Objetos | 🔒 |
+| 0 | `README.md` | Cómo funciona Java | En curso |
+| 1 | `01-fundamentos/` | Hola Mundo y estructura básica | Siguiente |
+| 2 | `02-variables/` | Variables y Tipos de Datos | Pendiente |
+| 3 | `03-operadores/` | Operadores aritméticos y lógicos | Pendiente |
+| 4 | `04-entrada-datos/` | Leer datos del teclado (Scanner) | Pendiente |
+| 5 | `05-condicionales/` | if, else, switch | Pendiente |
+| 6 | `06-bucles/` | for, while, do-while | Pendiente |
+| 7 | `07-arrays/` | Arreglos y listas | Pendiente |
+| 8 | `08-metodos/` | Métodos y funciones | Pendiente |
+| 9 | `09-poo/` | Programación Orientada a Objetos | Pendiente |
 
 ### Cómo compilar y ejecutar (MUY IMPORTANTE)
 En esta carpeta, abre una terminal (PowerShell) y ejecuta:
